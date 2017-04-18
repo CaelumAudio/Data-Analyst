@@ -1,0 +1,2 @@
+Is the distribution of the number of entries statistically different between rainy & non rainy days? - Yes.
+Describe your results and methods used - The closer p is to 0/1 determines how separate the compared values are. A p value of 0.5 would represent overlap.
