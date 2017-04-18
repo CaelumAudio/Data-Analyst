@@ -1,0 +1,9 @@
+Code Book
+
+name: Name of the baseball player.
+handedness: Batting hand of the baseball player.
+height: Height of the baseball player in inches.
+weight: Weight of the baseball player in pounds.
+avg: Batting Average
+HR: Number of Home Runs
+BMI: Body Mass index - (weight*0.45)/((height*0.025)^2)
